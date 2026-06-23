@@ -1,0 +1,3 @@
+[submodule "Vendor/ChiaKey"]
+	path = Vendor/ChiaKey
+	url = ../ChiaKey

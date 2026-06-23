@@ -10,3 +10,6 @@ DerivedData/
 *.mode2v3
 *.perspectivev3
 xcuserdata/
+
+# Prepared locally by Scripts/prepare-ios-resources.sh
+Resources/ChiaKeySource.db
